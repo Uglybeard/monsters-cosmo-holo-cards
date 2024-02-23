@@ -1,10 +1,10 @@
 <img src="./images/monsters-panini.webp" alt="Monsters_Logo">
 
-# Cosmo Holo Cards
+# Carte Cosmo Holo
 
-Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che sono già state trovate. Se possiedi una carta non presente in questo elenco, ti preghiamo cortesemente di contattare [@Uglybeard](https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba) su Telegram, oppure di creare direttamente una pull request su GitHub, allegando una fotografia del fronte e del retro della carta, in modo da permetterci di aggiornare l'elenco e tener traccia di tutte le carte trovate fino ad ora. 
+Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che sono già state trovate. Se possiedi una carta non presente in questo elenco, ti preghiamo cortesemente di contattare [@Uglybeard](https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba) su Telegram, oppure di creare direttamente una pull request su GitHub, Assicurati di allegare una fotografia del fronte e del retro della carta, in modo da consentirci di aggiornare l'elenco e tenere traccia di tutte le carte trovate fino ad ora. Grazie per il tuo contributo!
 
-## Card List
+## Elenco care
 
 | Numero | Nome             | Trovata   |
 |--------|------------------|---------|
