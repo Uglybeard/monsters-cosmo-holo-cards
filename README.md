@@ -10,7 +10,7 @@ https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba) on Telegram or ma
 | Num. | Name               | Found   | Num. | Name            | Found   | Num. | Name              | Found   |
 |--------|--------------------|---------|--------|-----------------|---------|--------|-------------------|---------|
 | 1      | Ammit              | X       | 67     | Basilisk        | X       | 133    | La Carretanagua  | ✓       |
-| 2      | Anzû               | ✓       | 68     | Bigfoot         | X       | 134    | Lenghelo         | ✓       |
+| 2      | [Anzû](./cards/anzu.md)               | ✓       | 68     | Bigfoot         | X       | 134    | Lenghelo         | ✓       |
 | 3      | Aspidochelone      | X       | 69     | Black Annis     | ✓       | 135    | Leprechaun       | X       |
 | 4      | Bahamut            | ✓       | 70     | Blemmyae        | X       | 136    | Lilith           | X       |
 | 5      | Baihu              | ✓       | 71     | Bloody Bones    | ✓       | 137    | Loch Ness Monster| X       |
