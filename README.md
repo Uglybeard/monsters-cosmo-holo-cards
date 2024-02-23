@@ -1,6 +1,7 @@
 # Monsters Cosmo Holo Cards
 
-The following list contains photographs of Monsters 1/1 (Cosmo Holo) cards that have already been found. In case you are in possession of a card not on this list, please contact @Uglybeard or @BabaFaba on Telegram or make a pull request directly on Github so that we can update the list and keep track of all the cards released so far.
+The following list contains photographs of Monsters 1/1 (Cosmo Holo) cards that have already been found. In case you are in possession of a card not on this list, please contact [@Uglybeard](
+https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba) on Telegram or make a pull request directly on Github so that we can update the list and keep track of all the cards released so far.
 
 # Legend
 
