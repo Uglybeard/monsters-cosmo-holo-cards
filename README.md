@@ -1,3 +1,5 @@
+<img src="./images/monsters-panini.webp" alt="Monsters_Logo" width="1000" height="380">
+
 # Monsters Cosmo Holo Cards
 
 The following list contains Monster! 1/1 (Cosmo Holo) cards that have already been found. If you have a card that is not on this list, please contact [@Uglybeard](
