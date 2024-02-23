@@ -138,7 +138,7 @@ https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba) on Telegram or ma
 | 127    | Kayeri           | ✓       |
 | 128    | Khepri           | X       |
 | 129    | Kikimora         | X       |
-| 130    | Kitsune          | ✓       |
+| 130    | [Kitsune](./cards/kitsune.md)          | ✓       |
 | 131    | Klabautermann    | X       |
 | 132    | Krampus          | X       |
 | 133    | La Carretanagua  | ✓       |
