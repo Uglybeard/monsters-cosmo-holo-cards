@@ -1,4 +1,4 @@
-<img src="./images/monsters-panini.webp" alt="Monsters_Logo" width="1000" height="380">
+<img src="./images/monsters-panini.webp" alt="Monsters_Logo">
 
 # Monsters Cosmo Holo Cards
 
