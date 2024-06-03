@@ -104,7 +104,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 94     | Dullahan         | X       |
 | 95     | Dwarf            | X       |
 | 96     | Elf              | ✓       |
-| 97     | Emela-Ntouka     | ✓       |
+| 97     | [Emela-Ntouka](./cards/emela-ntouka.md)     | ✓       |
 | 98     | Erchitu          | X       |
 | 99     | Fachan           | X       |
 | 100    | Fairy            | X       |
@@ -112,7 +112,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 102    | Gargoyle         | X       |
 | 103    | Gashadokuro      | X       |
 | 104    | Gawigawen        | X       |
-| 105    | Ghost            | ✓       |
+| 105    | [Ghost](./cards/ghost.md)            | ✓       |
 | 106    | Ghoul            | X       |
 | 107    | Giosalpino       | X       |
 | 108    | Gnome            | ✓       |
@@ -149,7 +149,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 139    | Loðsilungur      | ✓       |
 | 140    | Mandrake         | ✓       |
 | 141    | Manticore        | X       |
-| 142    | Medusa           | ✓       |
+| 142    | [Medusa](./cards/medusa.md)          | ✓       |
 | 143    | Menk             | X       |
 | 144    | Minotaur         | ✓       |
 | 145    | Mothman          | X       |

@@ -1,5 +1,5 @@
 # Medusa
  ## Front
- ![](../images/medusa-front.jpg)
+ ![](../images/medusa-front.jpeg)
  ## Back
- ![](../images/medusa-back.jpg)
+ ![](../images/medusa-back.jpeg)

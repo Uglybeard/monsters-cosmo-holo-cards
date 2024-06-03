@@ -1,5 +1,5 @@
 # Emela-Ntouka
  ## Front
- ![](../images/emela-ntouka-front.jpg)
+ ![](../images/emela-ntouka-front.jpeg)
  ## Back
- ![](../images/emela-ntouka-back.jpg)
+ ![](../images/emela-ntouka-back.jpeg)

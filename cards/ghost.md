@@ -1,5 +1,5 @@
 # Ghost
  ## Front
- ![](../images/ghost-front.jpg)
+ ![](../images/ghost-front.jpeg)
  ## Back
- ![](../images/ghost-back.jpg)
+ ![](../images/ghost-back.jpeg)
