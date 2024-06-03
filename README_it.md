@@ -40,7 +40,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 30     | Qilin            | ✓       |
 | 31     | Quetzalcoatl     | X       |
 | 32     | Ra               | X       |
-| 33     | Raijin & Fujin   | ✓       |
+| 33     | [Raijin & Fujin](./cards/raijin&fujin.md)   | ✓       |
 | 34     | Ratatoskr        | X       |
 | 35     | Ravana           | X       |
 | 36     | Sekhmet          | ✓       |
@@ -52,7 +52,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 42     | Typhon           | ✓       |
 | 43     | Varaha           | ✓       |
 | 44     | Varcolac         | ✓       |
-| 45     | Víðópnir         | X       |
+| 45     | [Víðópnir](./cards/víðópnir.md)         | ✓       |
 | 46     | Yemoja           | X       |
 | 47     | Ymir             | ✓       |
 | 48     | Yuètù            | X       |
@@ -61,7 +61,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 51     | Acalica          | X       |
 | 52     | Afanc            | X       |
 | 53     | Agnus Scythicus | ✓       |
-| 54     | Ahkiyyini        | ✓       |
+| 54     | [Ahkiyyini](./cards/ahkiyyini.md)        | ✓       |
 | 55     | Ahool            | X       |
 | 56     | Al               | ✓       |
 | 57     | Alber            | X       |
@@ -93,7 +93,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 83     | Cyclops          | ✓       |
 | 84     | Curupira         | ✓       |
 | 85     | Dagwanoenyent    | X       |
-| 86     | Dakuwaqa         | X       |
+| 86     | [Dakuwaqa](./cards/dakuwaqa.md)         | ✓       |
 | 87     | Dames Blanches   | ✓       |
 | 88     | Diao Si Gui      | X       |
 | 89     | Dibbuk           | X       |
@@ -115,8 +115,8 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 105    | [Ghost](./cards/ghost.md)            | ✓       |
 | 106    | Ghoul            | X       |
 | 107    | Giosalpino       | X       |
-| 108    | Gnome            | ✓       |
-| 109    | Goblin           | ✓       |
+| 108    | [Gnome](./cards/gnome.md)            | ✓       |
+| 109    | [Goblin](./cards/goblin.md)          | ✓       |
 | 110    | Golem            | X       |
 | 111    | Gremlin          | X       |
 | 112    | Griffin          | X       |
