@@ -16,7 +16,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 6      | Behemoth         | ✓       |
 | 7      | Cipactli         | X       |
 | 8      | Dagon            | ✓       |
-| 9      | Draco            | ✓       |
+| 9      | [Draco](./cards/draco.md)            | ✓       |
 | 10     | Echidna          | X       |
 | 11     | Grim Reaper      | X       |
 | 12     | Gugalanna        | X       |
@@ -24,11 +24,11 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 14     | Iku-Turso        | X       |
 | 15     | Ītzpāpālōtl      | X       |
 | 16     | Jörmungandr      | X       |
-| 17     | Joyboy           | ✓       |
+| 17     | [Joyboy](./cards/joyboy.md)           | ✓       |
 | 18     | Kraken           | X       |
 | 19     | Kuyūthā          | ✓       |
 | 20     | Leviathan        | ✓       |
-| 21     | Mahakala         | X       |
+| 21     | [Mahakala](./cards/mahakala.md)         | ✓       |
 | 22     | Mahishasura      | X       |
 | 23     | Minokawa         | X       |
 | 24     | Morozko          | ✓       |
@@ -43,7 +43,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 33     | [Raijin & Fujin](./cards/raijin&fujin.md)   | ✓       |
 | 34     | Ratatoskr        | X       |
 | 35     | Ravana           | X       |
-| 36     | Sekhmet          | ✓       |
+| 36     | [Sekhmet](./cards/sekhmet.md)          | ✓       |
 | 37     | Seraph           | X       |
 | 38     | Shenlong         | ✓       |
 | 39     | Sun Wukong       | X       |
@@ -67,7 +67,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 57     | Alber            | X       |
 | 58     | Amaru            | X       |
 | 59     | Anansi           | X       |
-| 60     | Anubi            | X       |
+| 60     | [Anubi](./cards/anubi.md)            | ✓       |
 | 61     | Arachne          | X       |
 | 62     | Aswang           | X       |
 | 63     | Baba Jaga        | X       |
@@ -84,7 +84,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 74     | Bulgasari        | X       |
 | 75     | Bunyip           | X       |
 | 76     | Burrunjor        | X       |
-| 77     | Catoblepa        | ✓       |
+| 77     | [Catoblepa](./cards/catoblepa.md)        | ✓       |
 | 78     | Cerberus         | X       |
 | 79     | Cernunnos        | X       |
 | 80     | Cherufe          | X       |
@@ -98,7 +98,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 88     | Diao Si Gui      | X       |
 | 89     | Dibbuk           | X       |
 | 90     | Djinn            | X       |
-| 91     | Dokkaebi         | X       |
+| 91     | [Dokkaebi](./cards/dokkaebi.md)         | ✓       |
 | 92     | Dover Demon      | X       |
 | 93     | Draugr           | X       |
 | 94     | Dullahan         | X       |
@@ -148,7 +148,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 138    | Lou Carcolh      | ✓       |
 | 139    | Loðsilungur      | ✓       |
 | 140    | Mandrake         | ✓       |
-| 141    | Manticore        | X       |
+| 141    | [Manticore](./cards/manticore.md)       | ✓       |
 | 142    | [Medusa](./cards/medusa.md)          | ✓       |
 | 143    | Menk             | X       |
 | 144    | Minotaur         | ✓       |
@@ -188,14 +188,14 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 178    | Spring-heeled Jack| X      |
 | 179    | Strzyga          | X       |
 | 180    | Tah-Tah-Kle’-Ah  | X       |
-| 181    | Tanuki           | X       |
+| 181    | [Tanuki](./cards/tanuki.md)           | ✓       |
 | 182    | Tarasque         | X       |
 | 183    | Teju Jagua       | ✓       |
 | 184    | Tengu            | X       |
 | 185    | Tonttu           | X       |
 | 186    | Tripodero        | ✓       |
 | 187    | Troll            | X       |
-| 188    | Tsukumogami      | ✓       |
+| 188    | [Tsukumogami](./cards/tsukumogami.md)      | ✓       |
 | 189    | Türst            | X       |
 | 190    | Umibozu          | X       |
 | 191    | Unicorn          | X       |
