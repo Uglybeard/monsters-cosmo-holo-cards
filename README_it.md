@@ -139,7 +139,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 129    | Kikimora         | X       |
 | 130    | [Kitsune](./cards/kitsune.md)          | ✓       |
 | 131    | Klabautermann    | X       |
-| 132    | Krampus          | X       |
+| 132    | [Krampus](./cards/krampus.md)          | ✓       |
 | 133    | La Carretanagua  | ✓       |
 | 134    | Lenghelo         | ✓       |
 | 135    | Leprechaun       | X       |
@@ -170,7 +170,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 160    | Popobawa         | X       |
 | 161    | Poroniec         | X       |
 | 162    | Preta            | X       |
-| 163    | Ratoncito Pérez  | ✓       |
+| 163    | [Ratoncito Pérez](./cards/ratoncitopérez.md)  | ✓       |
 | 164    | Roc              | ✓       |
 | 165    | Rompo            | X       |
 | 166    | Rumptifusel      | X       |
@@ -202,7 +202,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 192    | Vampire          | X       |
 | 193    | Vilupera         | X       |
 | 194    | Wendigo          | X       |
-| 195    | Whaitere         | ✓       |
+| 195    | [Whaitere](./cards/whaitere.md)         | ✓       |
 | 196    | Yara-Ma-Yha-Who  | X       |
 | 197    | Yeti             | X       |
 | 198    | Zombie           | X       |
