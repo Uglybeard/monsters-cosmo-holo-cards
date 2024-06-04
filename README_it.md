@@ -15,7 +15,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 5      | Baihu            | ✓       |
 | 6      | Behemoth         | ✓       |
 | 7      | Cipactli         | X       |
-| 8      | Dagon            | ✓       |
+| 8      | [Dagon](./cards/dagon.md)            | ✓       |
 | 9      | [Draco](./cards/draco.md)            | ✓       |
 | 10     | Echidna          | X       |
 | 11     | Grim Reaper      | X       |
