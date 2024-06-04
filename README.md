@@ -52,7 +52,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 42     | Typhon           | ✓       |
 | 43     | Varaha           | ✓       |
 | 44     | Varcolac         | ✓       |
-| 45     | [Víðópnir](./cards/víðópnir.md)         | ✓       |
+| 45     | [Víðópnir](./cards/víoopnir.md)         | ✓       |
 | 46     | Yemoja           | X       |
 | 47     | Ymir             | ✓       |
 | 48     | Yuètù            | X       |
