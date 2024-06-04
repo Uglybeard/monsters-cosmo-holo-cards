@@ -85,7 +85,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 75     | Bunyip           | X       |
 | 76     | Burrunjor        | X       |
 | 77     | [Catoblepa](./cards/catoblepa.md)        | ✓       |
-| 78     | Cerberus         | X       |
+| 78     | Cerberus         | ✓       |
 | 79     | Cernunnos        | X       |
 | 80     | Cherufe          | X       |
 | 81     | Chimera          | X       |
