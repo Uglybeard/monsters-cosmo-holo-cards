@@ -122,7 +122,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 112    | Griffin          | X       |
 | 113    | Grimalkin        | X       |
 | 114    | Hoga             | X       |
-| 115    | Hongatar         | ✓       |
+| 115    | [Hongatar](./cards/hongatar.md)         | ✓       |
 | 116    | Hydra            | X       |
 | 117    | Imp              | X       |
 | 118    | Incubus          | ✓       |
