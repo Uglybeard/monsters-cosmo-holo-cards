@@ -52,7 +52,7 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from Monsters! that have alre
 | 42     | Typhon           | ✓       |
 | 43     | Varaha           | ✓       |
 | 44     | Varcolac         | ✓       |
-| 45     | [Víðópnir](./cards/víðópnir.md)         | ✓       |
+| 45     | [Víðópnir](./cards/víoopnir.md)         | ✓       |
 | 46     | Yemoja           | X       |
 | 47     | Ymir             | ✓       |
 | 48     | Yuètù            | X       |
