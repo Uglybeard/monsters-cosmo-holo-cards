@@ -45,7 +45,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 35     | Ravana           | X       |
 | 36     | [Sekhmet](./cards/sekhmet.md)          | ✓       |
 | 37     | Seraph           | X       |
-| 38     | Shenlong         | ✓       |
+| 38     | [Shenlong](./cards/shenlong.md)         | ✓       |
 | 39     | Sun Wukong       | X       |
 | 40     | Tepēyōllōtl      | X       |
 | 41     | Tū-Te-Wehiwehi   | X       |
@@ -166,7 +166,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 156    | O’ Munaciello    | X       |
 | 157    | Pachamama        | X       |
 | 158    | Penanggalan      | ✓       |
-| 159    | Piasa            | ✓       |
+| 159    | [Piasa](./cards/piasa.md)            | ✓       |
 | 160    | Popobawa         | X       |
 | 161    | Poroniec         | X       |
 | 162    | Preta            | X       |
