@@ -191,7 +191,7 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from Monsters! that have alre
 | 181    | [Tanuki](./cards/tanuki.md)           | ✓       |
 | 182    | Tarasque         | X       |
 | 183    | Teju Jagua       | ✓       |
-| 184    | Tengu            | X       |
+| 184    | Tengu            | ✓       |
 | 185    | Tonttu           | X       |
 | 186    | Tripodero        | ✓       |
 | 187    | Troll            | X       |
@@ -204,5 +204,5 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from Monsters! that have alre
 | 194    | Wendigo          | X       |
 | 195    | [Whaitere](./cards/whaitere.md)         | ✓       |
 | 196    | Yara-Ma-Yha-Who  | X       |
-| 197    | Yeti             | X       |
+| 197    | Yeti             | ✓       |
 | 198    | Zombie           | X       |
