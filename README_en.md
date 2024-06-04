@@ -2,11 +2,11 @@
 
 # Cosmo Holo
 
-Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che sono già state trovate. Se possiedi una carta non presente in questo elenco, ti preghiamo cortesemente di contattare [@Uglybeard](https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba) su Telegram, oppure di creare direttamente una pull request su GitHub. Assicurati di allegare una fotografia del fronte e del retro della carta, in modo da consentirci di aggiornare l'elenco e tenere traccia di tutte le carte trovate fino ad ora. Grazie per il tuo contributo!
+Below is a list of 1/1 numbered cards (Cosmo Holo) from Monsters! that have already been found. If you have a card not listed, please contact [@Uglybeard](https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba), or create a pull request directly on GitHub. Be sure to attach a photograph of the front and back of the card, so we can update the list and keep track of all the cards found so far. Thanks for your contribution!
 
-## Elenco carte
+## Card List
 
-| Numero | Nome             | Trovata   |
+| Number | Name             | Found   |
 |--------|------------------|---------|
 | 1      | Ammit            | X       |
 | 2      | Anzû             | ✓       |
