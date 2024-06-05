@@ -1,5 +1,5 @@
 # Víðópnir
  ## Front
- ![](../images/víoopnir-front.jpg)
+ ![](../images/vioopnir-front.jpg)
  ## Back
- ![](../images/víoopnir-back.jpg)
+ ![](../images/vioopnir-back.jpg)
