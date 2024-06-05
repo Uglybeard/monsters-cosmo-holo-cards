@@ -118,7 +118,7 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from `Monsters!` that have al
 | 108    | [Gnome](./cards/gnome.md)            | ✓       |
 | 109    | [Goblin](./cards/goblin.md)          | ✓       |
 | 110    | Golem            | X       |
-| 111    | [Gremlin](./cards/gremlin.md)          | ✓       |
+| 111    | Gremlin          | X       |
 | 112    | Griffin          | X       |
 | 113    | Grimalkin        | X       |
 | 114    | Hoga             | X       |
