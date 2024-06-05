@@ -9,11 +9,11 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | Numero | Nome             | Trovata   |
 |--------|------------------|---------|
 | 1      | Ammit            | X       |
-| 2      | Anzû             | ✓       |
+| 2      | [Anzû](./cards/anzu.md)             | ✓       |
 | 3      | Aspidochelone    | X       |
 | 4      | Bahamut          | ✓       |
 | 5      | Baihu            | ✓       |
-| 6      | Behemoth         | ✓       |
+| 6      | [Behemoth](./cards/behemoth.md)         | ✓       |
 | 7      | Cipactli         | X       |
 | 8      | [Dagon](./cards/dagon.md)            | ✓       |
 | 9      | [Draco](./cards/draco.md)            | ✓       |
@@ -27,17 +27,17 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 17     | [Joyboy](./cards/joyboy.md)           | ✓       |
 | 18     | Kraken           | X       |
 | 19     | Kuyūthā          | ✓       |
-| 20     | Leviathan        | ✓       |
+| 20     | [Leviathan](./cards/leviathan.md)        | ✓       |
 | 21     | [Mahakala](./cards/mahakala.md)         | ✓       |
 | 22     | Mahishasura      | X       |
 | 23     | Minokawa         | X       |
-| 24     | Morozko          | ✓       |
-| 25     | Mórrígan         | ✓       |
-| 26     | Namazu           | ✓       |
+| 24     | [Morozko](./cards/morozko.md)          | ✓       |
+| 25     | [Mórrígan](./cards/morrigan.md)         | ✓       |
+| 26     | [Namazu](./cards/namazu.md)           | ✓       |
 | 27     | Nephilim         | X       |
 | 28     | Phoenix          | X       |
 | 29     | Paimon           | X       |
-| 30     | Qilin            | ✓       |
+| 30     | [Qilin](./cards/qilin.md)            | ✓       |
 | 31     | Quetzalcoatl     | X       |
 | 32     | Ra               | X       |
 | 33     | [Raijin & Fujin](./cards/raijin&fujin.md)   | ✓       |
@@ -50,7 +50,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 40     | Tepēyōllōtl      | X       |
 | 41     | Tū-Te-Wehiwehi   | X       |
 | 42     | Typhon           | ✓       |
-| 43     | Varaha           | ✓       |
+| 43     | [Varaha](./cards/varaha.md)           | ✓       |
 | 44     | Varcolac         | ✓       |
 | 45     | [Víðópnir](./cards/víoopnir.md)         | ✓       |
 | 46     | Yemoja           | X       |
@@ -60,10 +60,10 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 50     | Zmei             | X       |
 | 51     | Acalica          | X       |
 | 52     | Afanc            | X       |
-| 53     | Agnus Scythicus | ✓       |
+| 53     | [Agnus Scythicus](./cards/agnusscythicus.md) | ✓       |
 | 54     | [Ahkiyyini](./cards/ahkiyyini.md)        | ✓       |
 | 55     | Ahool            | X       |
-| 56     | Al               | ✓       |
+| 56     | [Al](./cards/al.md)               | ✓       |
 | 57     | Alber            | X       |
 | 58     | Amaru            | X       |
 | 59     | Anansi           | X       |
@@ -78,7 +78,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 68     | Bigfoot          | X       |
 | 69     | Black Annis      | ✓       |
 | 70     | Blemmyae         | X       |
-| 71     | Bloody Bones     | ✓       |
+| 71     | [Bloody Bones](./cards/bloodybones.md)     | ✓       |
 | 72     | Boogeyman        | X       |
 | 73     | Buer             | X       |
 | 74     | Bulgasari        | X       |
@@ -91,10 +91,10 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 81     | Chimera          | X       |
 | 82     | Chupacabra       | X       |
 | 83     | Cyclops          | ✓       |
-| 84     | Curupira         | ✓       |
+| 84     | [Curupira](./cards/curupira.md)         | ✓       |
 | 85     | Dagwanoenyent    | X       |
 | 86     | [Dakuwaqa](./cards/dakuwaqa.md)         | ✓       |
-| 87     | Dames Blanches   | ✓       |
+| 87     | [Dames Blanches](./cards/damesblanches.md)   | ✓       |
 | 88     | Diao Si Gui      | X       |
 | 89     | Dibbuk           | X       |
 | 90     | Djinn            | X       |
@@ -103,7 +103,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 93     | Draugr           | X       |
 | 94     | Dullahan         | X       |
 | 95     | Dwarf            | X       |
-| 96     | Elf              | ✓       |
+| 96     | [Elf](./cards/elf.md)              | ✓       |
 | 97     | [Emela-Ntouka](./cards/emela-ntouka.md)     | ✓       |
 | 98     | Erchitu          | X       |
 | 99     | Fachan           | X       |
@@ -118,36 +118,36 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 108    | [Gnome](./cards/gnome.md)            | ✓       |
 | 109    | [Goblin](./cards/goblin.md)          | ✓       |
 | 110    | Golem            | X       |
-| 111    | Gremlin          | X       |
+| 111    | [Gremlin](./cards/gremlin.md)          | ✓       |
 | 112    | Griffin          | X       |
 | 113    | Grimalkin        | X       |
 | 114    | Hoga             | X       |
 | 115    | [Hongatar](./cards/hongatar.md)         | ✓       |
 | 116    | Hydra            | X       |
 | 117    | Imp              | X       |
-| 118    | Incubus          | ✓       |
+| 118    | [Incubus](./cards/incubus.md)          | ✓       |
 | 119    | Ireltso          | X       |
 | 120    | Jack-O’-Lantern  | X       |
 | 121    | Jackalope        | X       |
 | 122    | Jersey Devil     | X       |
 | 123    | Jingwei          | X       |
 | 124    | Jumbee           | X       |
-| 125    | Kallikantzaroi   | ✓       |
-| 126    | Kappa            | ✓       |
+| 125    | [Kallikantzaroi](./cards/kallikantzaroi.md)   | ✓       |
+| 126    | [Kappa](./cards/kappa.md)            | ✓       |
 | 127    | Kayeri           | ✓       |
 | 128    | Khepri           | X       |
 | 129    | Kikimora         | X       |
 | 130    | [Kitsune](./cards/kitsune.md)          | ✓       |
 | 131    | Klabautermann    | X       |
 | 132    | [Krampus](./cards/krampus.md)          | ✓       |
-| 133    | La Carretanagua  | ✓       |
+| 133    | [La Carretanagua](./cards/lacarretanagua.md)  | ✓       |
 | 134    | Lenghelo         | ✓       |
 | 135    | Leprechaun       | X       |
 | 136    | Lilith           | X       |
 | 137    | Loch Ness Monster| X       |
 | 138    | Lou Carcolh      | ✓       |
 | 139    | Loðsilungur      | ✓       |
-| 140    | Mandrake         | ✓       |
+| 140    | [Mandrake](./cards/mandrake.md)         | ✓       |
 | 141    | [Manticore](./cards/manticore.md)       | ✓       |
 | 142    | [Medusa](./cards/medusa.md)          | ✓       |
 | 143    | Menk             | X       |
@@ -155,7 +155,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 145    | Mothman          | X       |
 | 146    | Munuanë          | X       |
 | 147    | Nadubi           | X       |
-| 148    | Naga             | ✓       |
+| 148    | [Naga](./cards/naga.md)             | ✓       |
 | 149    | Nahual           | X       |
 | 150    | Nanook           | ✓       |
 | 151    | Nixie            | X       |
@@ -174,10 +174,10 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 164    | Roc              | ✓       |
 | 165    | Rompo            | X       |
 | 166    | Rumptifusel      | X       |
-| 167    | Samjok-o         | ✓       |
+| 167    | [Samjok-o](./cards/samjok-o.md)         | ✓       |
 | 168    | Sandman          | X       |
 | 169    | Santa Compaña    | X       |
-| 170    | Shahmaran        | ✓       |
+| 170    | [Shahmaran](./cards/shahmaran.md)        | ✓       |
 | 171    | Shishi           | X       |
 | 172    | Siren            | X       |
 | 173    | Skeljaskrímsli   | X       |
@@ -191,9 +191,9 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di Monsters! che son
 | 181    | [Tanuki](./cards/tanuki.md)           | ✓       |
 | 182    | Tarasque         | X       |
 | 183    | Teju Jagua       | ✓       |
-| 184    | Tengu            | ✓       |
+| 184    | [Tengu](./cards/tengu.md)            | ✓       |
 | 185    | Tonttu           | X       |
-| 186    | Tripodero        | ✓       |
+| 186    | [Tripodero](./cards/tripodero.md)        | ✓       |
 | 187    | Troll            | X       |
 | 188    | [Tsukumogami](./cards/tsukumogami.md)      | ✓       |
 | 189    | Türst            | X       |
