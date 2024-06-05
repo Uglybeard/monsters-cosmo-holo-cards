@@ -118,7 +118,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di `Monsters!` che s
 | 108    | [Gnome](./cards/gnome.md)            | ✓       |
 | 109    | [Goblin](./cards/goblin.md)          | ✓       |
 | 110    | Golem            | X       |
-| 111    | [Gremlin](./cards/gremlin.md)          | ✓       |
+| 111    | Gremlin          | X       |
 | 112    | Griffin          | X       |
 | 113    | Grimalkin        | X       |
 | 114    | Hoga             | X       |
