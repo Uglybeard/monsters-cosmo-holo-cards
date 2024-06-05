@@ -18,7 +18,7 @@ Di seguito sono elencate le carte numerate 1/1 (Cosmo Holo) di `Monsters!` che s
 | 8      | [Dagon](./cards/dagon.md)            | ✓       |
 | 9      | [Draco](./cards/draco.md)            | ✓       |
 | 10     | Echidna          | X       |
-| 11     | Grim Reaper      | X       |
+| 11     | Grim Reaper      | ✓       |
 | 12     | Gugalanna        | X       |
 | 13     | Humbaba          | X       |
 | 14     | Iku-Turso        | X       |
