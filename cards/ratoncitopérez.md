@@ -1,5 +1,5 @@
 # Ratoncito Pérez
  ## Front
- ![](../images/ratoncitopérez-front.jpg)
+ ![](../images/ratoncitoperez-front.jpg)
  ## Back
- ![](../images/ratoncitopérez-back.jpg)
+ ![](../images/ratoncitoperez-back.jpg)
