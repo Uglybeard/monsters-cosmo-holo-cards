@@ -18,7 +18,7 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from `Monsters!` that have al
 | 8      | [Dagon](./cards/dagon.md)            | ✓       |
 | 9      | [Draco](./cards/draco.md)            | ✓       |
 | 10     | Echidna          | X       |
-| 11     | Grim Reaper      | X       |
+| 11     | Grim Reaper      | ✓       |
 | 12     | Gugalanna        | X       |
 | 13     | Humbaba          | X       |
 | 14     | Iku-Turso        | X       |
