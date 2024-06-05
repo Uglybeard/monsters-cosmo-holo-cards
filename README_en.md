@@ -2,7 +2,7 @@
 
 # Cosmo Holo
 
-Below is a list of 1/1 numbered cards (Cosmo Holo) from Monsters! that have already been found. If you have a card not listed, please contact [@Uglybeard](https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba), or create a pull request directly on GitHub. Be sure to attach a photograph of the front and back of the card, so we can update the list and keep track of all the cards found so far. Thanks for your contribution!
+Below is a list of 1/1 numbered cards (Cosmo Holo) from `Monsters!` that have already been found. If you have a card not listed, please contact [@Uglybeard](https://t.me/Uglybeard) or [@BabaFaba](https://t.me/Baba_Faba), or create a pull request directly on GitHub. Be sure to attach a photograph of the front and back of the card, so we can update the list and keep track of all the cards found so far. Thanks for your contribution!
 
 ## Card List
 
