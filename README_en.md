@@ -54,7 +54,7 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from `Monsters!` that have al
 | 44     | Varcolac         | ✓       |
 | 45     | [Víðópnir](./cards/víoopnir.md)         | ✓       |
 | 46     | Yemoja           | X       |
-| 47     | Ymir             | ✓       |
+| 47     | [Ymir](./cards/ymir.md)             | ✓       |
 | 48     | Yuètù            | X       |
 | 49     | Zahhāk           | X       |
 | 50     | Zmei             | X       |
