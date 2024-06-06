@@ -18,7 +18,7 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from `Monsters!` that have al
 | 8      | [Dagon](./cards/dagon.md)            | ✓       |
 | 9      | [Draco](./cards/draco.md)            | ✓       |
 | 10     | Echidna          | X       |
-| 11     | Grim Reaper      | ✓       |
+| 11     | [Grim Reaper](./cards/grimreaper.md)      | ✓       |
 | 12     | Gugalanna        | X       |
 | 13     | Humbaba          | X       |
 | 14     | Iku-Turso        | X       |
@@ -79,13 +79,13 @@ Below is a list of 1/1 numbered cards (Cosmo Holo) from `Monsters!` that have al
 | 69     | Black Annis      | ✓       |
 | 70     | Blemmyae         | X       |
 | 71     | [Bloody Bones](./cards/bloodybones.md)     | ✓       |
-| 72     | Boogeyman        | X       |
+| 72     | [Boogeyman](./cards/boogeyman.md)        | ✓       |
 | 73     | Buer             | X       |
 | 74     | Bulgasari        | X       |
 | 75     | Bunyip           | X       |
 | 76     | Burrunjor        | X       |
 | 77     | [Catoblepa](./cards/catoblepa.md)        | ✓       |
-| 78     | Cerberus         | ✓       |
+| 78     | [Cerberus](./cards/cerberus.md)         | ✓       |
 | 79     | Cernunnos        | X       |
 | 80     | Cherufe          | X       |
 | 81     | Chimera          | X       |
